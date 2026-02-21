@@ -6,6 +6,7 @@ Curated resources for the x402 ecosystem: specs, repos, standards, and community
 
 ### Quick Links
 - [MoonMaker API](https://api.moonmaker.cc) - AI-native crypto data API with x402 pay-per-call. 11 endpoints: signals, regime, institutions, ETF flows, DeFi yields & DEX alpha. $0.02–$0.10/call USDC on Base. No signup. [llms.txt](https://api.moonmaker.cc/llms.txt)
+- [MoonMaker API](https://api.moonmaker.cc) - AI-native crypto data API with x402 pay-per-call. 11 endpoints: signals, regime, institutions, ETF flows, DeFi yields & DEX alpha. $0.02–$0.10/call USDC on Base. No signup. [llms.txt](https://api.moonmaker.cc/llms.txt)
 - [Website](https://www.x402.org/)
 - [Spec / Repo](https://github.com/coinbase/x402)
 - [Explorer](https://x402scan.com/)
